@@ -42,4 +42,3 @@ int main(){
     printf("\n Resultado da adicao: \t %d", result2);
 
     return 0;
-
